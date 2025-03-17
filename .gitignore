@@ -2,3 +2,4 @@
 .DS_STORE
 *.db
 *.csv
+mydb.db-journal
